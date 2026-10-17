@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/alexandercoabad/Abad_2048
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p3
+  slot: tt_um_AbAdA_2048
+  project: Abad2048
+  size: 1x2
+  kind: digital (Verilog)
+  commit: dfafb82bbb3806011e27b57fe2f78d54a27f5011
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p3/tt_um_AbAdA_2048
+  branch: tapeout/tinytapeout/ttgf0p3/tt_um_AbAdA_2048
+  page: https://app.tinytapeout.com/shuttles/ttgf0p3
+generated: '2026-10-17T23:03:03Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p3/tt_um_AbAdA_2048
+- upstream/main
